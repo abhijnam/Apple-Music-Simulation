@@ -12,7 +12,7 @@ Configuration
 3. For Windows- Open the downloaded package in which you will find the java installation file click on the file and follow the steps to install JDK to Program Files in Local Disk. Next go to settings in your computer > About > Advanced system settings > Environment Variables > Path. Click on New and copy and paste the path of JDK file saved. The path can be found by going to the file and right clicking once and CTRL + Shift + C
 
 TO RUN THE PROGRAM:
-1. Download the zip files and extract the contents
+1. Download the A1 and A2 zip files and extract the contents
 2. Open Terminal in MacOS or Command Prompt in Windows
 3. Set the path to the file named MyAudioUI in Terminal or Command Prompt
 4. the path to the file can be found in MacOS by going into the file properties and looking at the "Where:" section
